@@ -1,0 +1,1 @@
+{"kabita": 3, "hari": 2, "Rohan": 4, "Ankita": 5, "Sami": 5, "Alina": 5, "Asmita": -1, "1": 0}
